@@ -8,5 +8,5 @@ dependencies:
   - numpy
   - matplotlib
   - pip
-  # - pip:
-  #   - mpl_toolkits
+  - tqdm
+  - scipy
